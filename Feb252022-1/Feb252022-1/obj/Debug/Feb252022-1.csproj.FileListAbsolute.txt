@@ -1,0 +1,13 @@
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\Feb252022-1.exe.config
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\Feb252022-1.exe
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\Feb252022-1.pdb
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\MyProject.TeamA.dll
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\MyProject.TeamB.dll
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\MyProject.TeamA.pdb
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\bin\Debug\MyProject.TeamB.pdb
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.csproj.CopyComplete
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.exe
+C:\Users\murtaza\source\repos\Feb252022-1\Feb252022-1\obj\Debug\Feb252022-1.pdb

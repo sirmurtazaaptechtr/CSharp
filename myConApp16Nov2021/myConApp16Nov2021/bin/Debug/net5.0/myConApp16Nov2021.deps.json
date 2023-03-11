@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "myConApp16Nov2021/1.0.0": {
+        "runtime": {
+          "myConApp16Nov2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myConApp16Nov2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

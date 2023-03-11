@@ -1,0 +1,6 @@
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\bin\Debug\Project007.TeamDelta.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\bin\Debug\Project007.TeamDelta.pdb
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\obj\Debug\Project007.TeamDelta.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\obj\Debug\Project007.TeamDelta.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\obj\Debug\Project007.TeamDelta.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.TeamDelta\obj\Debug\Project007.TeamDelta.pdb

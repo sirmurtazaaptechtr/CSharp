@@ -1,0 +1,6 @@
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\bin\Debug\ProjectB.dll
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\bin\Debug\ProjectB.pdb
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\obj\Debug\ProjectB.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\obj\Debug\ProjectB.dll
+C:\Users\murtaza\source\repos\Feb182023-1\ProjectB\obj\Debug\ProjectB.pdb

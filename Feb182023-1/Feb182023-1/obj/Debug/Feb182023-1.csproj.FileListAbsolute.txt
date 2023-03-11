@@ -1,0 +1,13 @@
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\Feb182023-1.exe.config
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\Feb182023-1.exe
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\Feb182023-1.pdb
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.exe
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.pdb
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\ProjectA.dll
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\ProjectB.dll
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\ProjectA.pdb
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\bin\Debug\ProjectB.pdb
+C:\Users\murtaza\source\repos\Feb182023-1\Feb182023-1\obj\Debug\Feb182023-1.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\bin\Debug\Jan312022-Special26.exe.config
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\bin\Debug\Jan312022-Special26.exe
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\bin\Debug\Jan312022-Special26.pdb
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\obj\Debug\Jan312022-Special26.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\obj\Debug\Jan312022-Special26.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\obj\Debug\Jan312022-Special26.exe
+C:\Users\murtaza\source\repos\Jan312022-Special26\Jan312022-Special26\obj\Debug\Jan312022-Special26.pdb

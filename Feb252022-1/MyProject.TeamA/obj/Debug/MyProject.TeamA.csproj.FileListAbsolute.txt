@@ -1,0 +1,6 @@
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\bin\Debug\MyProject.TeamA.dll
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\bin\Debug\MyProject.TeamA.pdb
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\obj\Debug\MyProject.TeamA.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\obj\Debug\MyProject.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\obj\Debug\MyProject.TeamA.dll
+C:\Users\murtaza\source\repos\Feb252022-1\MyProject.TeamA\obj\Debug\MyProject.TeamA.pdb

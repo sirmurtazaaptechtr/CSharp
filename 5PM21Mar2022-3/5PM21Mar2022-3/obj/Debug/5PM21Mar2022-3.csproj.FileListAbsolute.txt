@@ -1,0 +1,13 @@
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\5PM21Mar2022-3.exe.config
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\5PM21Mar2022-3.exe
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\5PM21Mar2022-3.pdb
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\Project007.AlphaTeam.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\Project007.TeamDelta.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\Project007.AlphaTeam.pdb
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\bin\Debug\Project007.TeamDelta.pdb
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.csproj.CopyComplete
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.exe
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\5PM21Mar2022-3\obj\Debug\5PM21Mar2022-3.pdb

@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\bin\Debug\myFirstConsoleApp.exe.config
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\bin\Debug\myFirstConsoleApp.exe
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\bin\Debug\myFirstConsoleApp.pdb
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\obj\Debug\myFirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\obj\Debug\myFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\obj\Debug\myFirstConsoleApp.exe
+C:\Users\murtaza\source\repos\myFirstConsoleApp\myFirstConsoleApp\obj\Debug\myFirstConsoleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\bin\Debug\Project007.AlphaTeam.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\bin\Debug\Project007.AlphaTeam.pdb
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\obj\Debug\Project007.AlphaTeam.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\obj\Debug\Project007.AlphaTeam.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\obj\Debug\Project007.AlphaTeam.dll
+C:\Users\murtaza\source\repos\5PM21Mar2022-3\Project007.AlphaTeam\obj\Debug\Project007.AlphaTeam.pdb

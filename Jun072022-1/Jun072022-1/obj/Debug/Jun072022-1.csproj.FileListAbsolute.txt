@@ -1,0 +1,8 @@
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\bin\Debug\Jun072022-1.exe.config
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\bin\Debug\Jun072022-1.exe
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\bin\Debug\Jun072022-1.pdb
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\obj\Debug\Jun072022-1.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\obj\Debug\Jun072022-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\obj\Debug\Jun072022-1.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\obj\Debug\Jun072022-1.exe
+C:\Users\murtaza\source\repos\Jun072022-1\Jun072022-1\obj\Debug\Jun072022-1.pdb
