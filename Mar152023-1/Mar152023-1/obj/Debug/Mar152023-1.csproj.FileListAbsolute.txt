@@ -1,0 +1,8 @@
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\bin\Debug\Mar152023-1.exe.config
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\bin\Debug\Mar152023-1.exe
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\bin\Debug\Mar152023-1.pdb
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\obj\Debug\Mar152023-1.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\obj\Debug\Mar152023-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\obj\Debug\Mar152023-1.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\obj\Debug\Mar152023-1.exe
+C:\Users\murtaza\source\repos\Mar152023-1\Mar152023-1\obj\Debug\Mar152023-1.pdb
