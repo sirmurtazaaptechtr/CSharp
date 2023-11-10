@@ -1,0 +1,11 @@
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\bin\Debug\May222023-2.exe.config
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\bin\Debug\May222023-2.exe
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\bin\Debug\May222023-2.pdb
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023_2.Form1.resources
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023_2.Properties.Resources.resources
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.csproj.GenerateResource.cache
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.exe
+C:\Users\murtaza\source\repos\May222023-2\May222023-2\obj\Debug\May222023-2.pdb
