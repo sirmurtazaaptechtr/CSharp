@@ -6,10 +6,17 @@ namespace Nov102023
     {
         static void Main()
         {
+            //---> Verbatim Literal '@'
             //Console.WriteLine("This is my first line.\nThis is my second line");
             //Console.WriteLine(@"File Path = D:\Projects\project1");
 
-            int num1 = 50;int num2 = 10;bool t = true;bool f = false;            
+            //---> Assignment Operator '='
+            int num1 = 50;
+            int num2 = 10;
+            bool t = true;
+            bool f = false;
+
+            //---> Arithmetic Operator '+ - * / %'
             int res = num1 + num2;
             Console.WriteLine("{0} + {1} = {2}", num1, num2, res);
             Console.WriteLine("{0} - {1} = {2}", num1, num2, num1 - num2);
@@ -17,6 +24,7 @@ namespace Nov102023
             Console.WriteLine("{0} / {1} = {2}", num1, num2, num1 / num2);
             Console.WriteLine("{0} % {1} = {2}", num1, num2, num1 % num2);
 
+            //---> Comparison Operator '< <= == != > >='
             Console.WriteLine("{0} == {1} is {2}", num1, num2, num1 == num2);
             Console.WriteLine("{0} != {1} is {2}", num1, num2, num1 != num2);
             Console.WriteLine("{0} > {1} is {2}", num1, num2, num1 > num2);
@@ -24,6 +32,7 @@ namespace Nov102023
             Console.WriteLine("{0} < {1} is {2}", num1, num2, num1 < num2);
             Console.WriteLine("{0} <= {1} is {2}", num1, num2, num1 <= num2);
 
+            //---> Logical Operator '&& ||'
             Console.WriteLine("{0} && {1} = {2}", t, t, t && t);
             Console.WriteLine("{0} && {1} = {2}", t, f, t && f);
             Console.WriteLine("{0} && {1} = {2}", f, t, f && t);
@@ -32,6 +41,7 @@ namespace Nov102023
             Console.WriteLine("{0} || {1} = {2}", t, f, t || f);
             Console.WriteLine("{0} || {1} = {2}", f, t, f || t);
             Console.WriteLine("{0} || {1} = {2}", f, f, f || f);
+            
             // Ternary Operator '?:'
             int number = 101;
             //if(number%2 == 0)
@@ -44,7 +54,8 @@ namespace Nov102023
             //}
             string message = number % 2 == 0 ? number + " is Even": number + " is Odd";
             Console.WriteLine(message);
-            // Nullable value type '<DataType>?'
+            
+            // --->Nullable value type '<DataType>?'
             bool? isTeacher = null;
             if(isTeacher == true)
             {
@@ -58,7 +69,8 @@ namespace Nov102023
             {
                 Console.WriteLine("User did'nt answer the question");
             }
-            // Null Coalescing Operator '??'
+            
+            // --->Null Coalescing Operator '??'
             int? TicketOnSale = null;
             int TicketAvailabe;
             //if(TicketOnSale == null)
