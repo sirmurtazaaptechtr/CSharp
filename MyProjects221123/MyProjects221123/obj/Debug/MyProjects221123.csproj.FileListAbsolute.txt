@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\bin\Debug\MyProjects221123.exe.config
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\bin\Debug\MyProjects221123.exe
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\bin\Debug\MyProjects221123.pdb
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\obj\Debug\MyProjects221123.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\obj\Debug\MyProjects221123.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\obj\Debug\MyProjects221123.exe
+C:\Users\murtaza\source\repos\MyProjects221123\MyProjects221123\obj\Debug\MyProjects221123.pdb
