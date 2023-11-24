@@ -1,0 +1,12 @@
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\Nov242023.exe.config
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\Nov242023.exe
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\Nov242023.pdb
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\ProjectA.TeamB.dll
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\ProjetA.TeamA.dll
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\bin\Debug\ProjetA.TeamA.pdb
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\obj\Debug\Nov242023.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\obj\Debug\Nov242023.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\obj\Debug\Nov242023.csproj.CopyComplete
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\obj\Debug\Nov242023.exe
+C:\Users\murtaza\source\repos\Nov242023\Nov242023\obj\Debug\Nov242023.pdb
