@@ -44,6 +44,7 @@ namespace Nov282023
         public float salary;
         public new void Print()
         {
+            //base.Print(); // Method 2
             Console.WriteLine(company);
             Console.WriteLine("\nID : {0}\nName : {1}\nGender : {2}\nAge : {3}\nMonthly Salary = {4}\n", this.id, this.name, this.gender, this.age, this.salary);
         }
@@ -74,12 +75,14 @@ namespace Nov282023
             cemp1.Print();
 
             PermanentEmployee pemp1 = new PermanentEmployee();
+            //Employee pemp1 = new PermanentEmployee(); //Method 3
             pemp1.id = 3;
             pemp1.name = "Taha";
             pemp1.gender = "male";
             pemp1.age = 19;
             pemp1.salary = 122412.25f;
             pemp1.Print();
+            //((Employee)pemp1).Print(); // Method 1 To call parent Method
         }
     }
 }
