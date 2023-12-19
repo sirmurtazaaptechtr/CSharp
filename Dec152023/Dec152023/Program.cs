@@ -25,9 +25,9 @@ namespace Dec152023
     //public delegate void MyDelegate(string str);
     internal class Program
     {
-        public static bool CheckPromotion (Employee emp)
+        public static bool CheckPromotion (Employee employee)
         {
-            if(emp.Experience >= 3 && emp.Salary > 2000)
+            if(employee.Experience > 2 && employee.Salary > 1000)
             {
                 return true;
             }else
