@@ -1,0 +1,10 @@
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\bin\Debug\Dec232023.exe.config
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\bin\Debug\Dec232023.exe
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\bin\Debug\Dec232023.pdb
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.Form1.resources
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.Properties.Resources.resources
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.csproj.GenerateResource.cache
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.exe
+C:\Users\murtaza\source\repos\Dec232023\Dec232023\obj\Debug\Dec232023.pdb
