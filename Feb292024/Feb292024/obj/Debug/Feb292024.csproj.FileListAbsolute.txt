@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\bin\Debug\Feb292024.exe.config
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\bin\Debug\Feb292024.exe
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\bin\Debug\Feb292024.pdb
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\obj\Debug\Feb292024.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\obj\Debug\Feb292024.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\obj\Debug\Feb292024.exe
+C:\Users\murtaza\source\repos\Feb292024\Feb292024\obj\Debug\Feb292024.pdb
