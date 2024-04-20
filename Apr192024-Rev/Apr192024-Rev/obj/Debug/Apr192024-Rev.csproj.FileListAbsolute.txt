@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\bin\Debug\Apr192024-Rev.exe.config
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\bin\Debug\Apr192024-Rev.exe
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\bin\Debug\Apr192024-Rev.pdb
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\obj\Debug\Apr192024-Rev.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\obj\Debug\Apr192024-Rev.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\obj\Debug\Apr192024-Rev.exe
+C:\Users\murtaza\source\repos\Apr192024-Rev\Apr192024-Rev\obj\Debug\Apr192024-Rev.pdb

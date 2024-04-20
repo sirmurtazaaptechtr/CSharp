@@ -4,8 +4,13 @@ namespace Apr162024
 {
     internal class Student
     {
+        // Class members
+
+        // fields
         public float _obt_marks;
         private static float _max_marks = 200;
+
+        // methods
         public static void MyMethod()
         {
             Console.WriteLine("This is My Method of Student Class...");
