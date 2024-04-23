@@ -76,6 +76,10 @@ namespace Apr222024
         {
             return _max_marks;
         }
+        public string getPattern ()
+        {
+            return _pattern;
+        }
 
     }
     internal class Program
