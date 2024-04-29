@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|c:\\users\\murtaza\\source\\repos\\apr292024mh\\apr292024mh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|solutionrelative:apr292024mh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|c:\\users\\murtaza\\source\\repos\\apr292024mh\\apr292024mh\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|solutionrelative:apr292024mh\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|c:\\users\\murtaza\\source\\repos\\apr292024mh\\apr292024mh\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|solutionrelative:apr292024mh\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|c:\\users\\murtaza\\source\\repos\\apr292024mh\\apr292024mh\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4268C9F9-8823-40FB-BECC-C2050DFBE42E}|Apr292024MH\\Apr292024MH.csproj|solutionrelative:apr292024mh\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Apr292024MH\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Apr292024MH\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:39:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\Employee.cs",
+              "RelativeDocumentMoniker": "Apr292024MH\\Employee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\Employee.cs",
+              "RelativeToolTip": "Apr292024MH\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:38:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Apr292024MH\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\PartTimeEmployee.cs",
+              "RelativeToolTip": "Apr292024MH\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:37:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\Program.cs",
+              "RelativeDocumentMoniker": "Apr292024MH\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr292024MH\\Apr292024MH\\Program.cs",
+              "RelativeToolTip": "Apr292024MH\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:34:50.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
