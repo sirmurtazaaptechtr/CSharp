@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Apr302024\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\PartTimeEmployee.cs",
+              "RelativeToolTip": "Apr302024\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:01:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Apr302024\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Apr302024\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:59:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\Employee.cs",
+              "RelativeDocumentMoniker": "Apr302024\\Employee.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\Employee.cs",
+              "RelativeToolTip": "Apr302024\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:56:34.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\Program.cs",
+              "RelativeDocumentMoniker": "Apr302024\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Apr302024\\Apr302024\\Program.cs",
+              "RelativeToolTip": "Apr302024\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T10:55:27.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
