@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|C:\\Users\\murtaza\\source\\repos\\Apr302024\\apr302024\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|c:\\users\\murtaza\\source\\repos\\apr302024\\apr302024\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|C:\\Users\\murtaza\\source\\repos\\Apr302024\\apr302024\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA66F4C8-CEE8-4225-ACC9-492EB489A912}|Apr302024\\Apr302024.csproj|solutionrelative:apr302024\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Apr302024\\PartTimeEmployee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T11:01:29.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T11:01:29.272Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Apr302024\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T10:56:34.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T10:56:34.309Z"
             }
           ]
         },

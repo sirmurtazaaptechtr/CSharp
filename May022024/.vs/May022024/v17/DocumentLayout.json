@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\May022024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\carnivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\carnivorous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|c:\\users\\murtaza\\source\\repos\\may022024\\may022024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B310070E-95B1-4AE7-B933-AC28A43A9440}|May022024\\May022024.csproj|solutionrelative:may022024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Lion.cs",
+              "RelativeDocumentMoniker": "May022024\\Lion.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Lion.cs",
+              "RelativeToolTip": "May022024\\Lion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:19:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Dog.cs",
+              "RelativeDocumentMoniker": "May022024\\Dog.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Dog.cs",
+              "RelativeToolTip": "May022024\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:48.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Cat.cs",
+              "RelativeDocumentMoniker": "May022024\\Cat.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Cat.cs",
+              "RelativeToolTip": "May022024\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:03:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carnivorous.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Carnivorous.cs",
+              "RelativeDocumentMoniker": "May022024\\Carnivorous.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Carnivorous.cs",
+              "RelativeToolTip": "May022024\\Carnivorous.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:22:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Animal.cs",
+              "RelativeDocumentMoniker": "May022024\\Animal.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Animal.cs",
+              "RelativeToolTip": "May022024\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:54:52.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Program.cs",
+              "RelativeDocumentMoniker": "May022024\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May022024\\May022024\\Program.cs",
+              "RelativeToolTip": "May022024\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:54:10.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
