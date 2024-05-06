@@ -1,0 +1,7 @@
+C:\Users\murtaza\source\repos\May42024\May42024\bin\Debug\May42024.exe.config
+C:\Users\murtaza\source\repos\May42024\May42024\bin\Debug\May42024.exe
+C:\Users\murtaza\source\repos\May42024\May42024\bin\Debug\May42024.pdb
+C:\Users\murtaza\source\repos\May42024\May42024\obj\Debug\May42024.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\May42024\May42024\obj\Debug\May42024.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\May42024\May42024\obj\Debug\May42024.exe
+C:\Users\murtaza\source\repos\May42024\May42024\obj\Debug\May42024.pdb

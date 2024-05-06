@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\May42024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|c:\\users\\murtaza\\source\\repos\\may42024\\may42024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|solutionrelative:may42024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|c:\\users\\murtaza\\source\\repos\\may42024\\may42024\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|solutionrelative:may42024\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|c:\\users\\murtaza\\source\\repos\\may42024\\may42024\\iomnivore .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|solutionrelative:may42024\\iomnivore .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|c:\\users\\murtaza\\source\\repos\\may42024\\may42024\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6814D64A-D704-4DF2-A3D5-55704E242149}|May42024\\May42024.csproj|solutionrelative:may42024\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rat.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\Rat.cs",
+              "RelativeDocumentMoniker": "May42024\\Rat.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\Rat.cs",
+              "RelativeToolTip": "May42024\\Rat.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:57:26.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOmnivore .cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\IOmnivore .cs",
+              "RelativeDocumentMoniker": "May42024\\IOmnivore .cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\IOmnivore .cs",
+              "RelativeToolTip": "May42024\\IOmnivore .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:55:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\IAnimal.cs",
+              "RelativeDocumentMoniker": "May42024\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\IAnimal.cs",
+              "RelativeToolTip": "May42024\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:52:43.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\Program.cs",
+              "RelativeDocumentMoniker": "May42024\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\May42024\\May42024\\Program.cs",
+              "RelativeToolTip": "May42024\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:52:10.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
