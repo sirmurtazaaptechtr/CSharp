@@ -16,7 +16,7 @@ namespace May082024_DA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Teachers());
+            Application.Run(new Login());
         }
     }
 }

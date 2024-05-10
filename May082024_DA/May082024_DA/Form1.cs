@@ -122,5 +122,12 @@ namespace May082024_DA
             displaydata();
             cleardata();
         }
+
+        private void Logoutbtn_Click(object sender, EventArgs e)
+        {
+            Login l1 = new Login();
+            l1.Show();
+            this.Hide();
+        }
     }
 }

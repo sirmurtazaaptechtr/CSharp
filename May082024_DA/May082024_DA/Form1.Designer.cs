@@ -45,16 +45,17 @@
             this.Exitbtn = new System.Windows.Forms.Button();
             this.Findbtn = new System.Windows.Forms.Button();
             this.Teachersgv = new System.Windows.Forms.DataGridView();
-            this.school_dbDataSet = new May082024_DA.school_dbDataSet();
-            this.teacherBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.teacherTableAdapter = new May082024_DA.school_dbDataSetTableAdapters.teacherTableAdapter();
             this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.addressDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.salaryDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.teacherBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.school_dbDataSet = new May082024_DA.school_dbDataSet();
+            this.teacherTableAdapter = new May082024_DA.school_dbDataSetTableAdapters.teacherTableAdapter();
+            this.Logoutbtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.Teachersgv)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.school_dbDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.teacherBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.school_dbDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // IDlbl
@@ -209,20 +210,6 @@
             this.Teachersgv.TabIndex = 3;
             this.Teachersgv.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Teachersgv_CellContentClick);
             // 
-            // school_dbDataSet
-            // 
-            this.school_dbDataSet.DataSetName = "school_dbDataSet";
-            this.school_dbDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // teacherBindingSource
-            // 
-            this.teacherBindingSource.DataMember = "teacher";
-            this.teacherBindingSource.DataSource = this.school_dbDataSet;
-            // 
-            // teacherTableAdapter
-            // 
-            this.teacherTableAdapter.ClearBeforeFill = true;
-            // 
             // idDataGridViewTextBoxColumn
             // 
             this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
@@ -248,11 +235,36 @@
             this.salaryDataGridViewTextBoxColumn.HeaderText = "salary";
             this.salaryDataGridViewTextBoxColumn.Name = "salaryDataGridViewTextBoxColumn";
             // 
+            // teacherBindingSource
+            // 
+            this.teacherBindingSource.DataMember = "teacher";
+            this.teacherBindingSource.DataSource = this.school_dbDataSet;
+            // 
+            // school_dbDataSet
+            // 
+            this.school_dbDataSet.DataSetName = "school_dbDataSet";
+            this.school_dbDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // teacherTableAdapter
+            // 
+            this.teacherTableAdapter.ClearBeforeFill = true;
+            // 
+            // Logoutbtn
+            // 
+            this.Logoutbtn.Location = new System.Drawing.Point(93, 197);
+            this.Logoutbtn.Name = "Logoutbtn";
+            this.Logoutbtn.Size = new System.Drawing.Size(75, 23);
+            this.Logoutbtn.TabIndex = 4;
+            this.Logoutbtn.Text = "Logout";
+            this.Logoutbtn.UseVisualStyleBackColor = true;
+            this.Logoutbtn.Click += new System.EventHandler(this.Logoutbtn_Click);
+            // 
             // Teachers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 361);
+            this.Controls.Add(this.Logoutbtn);
             this.Controls.Add(this.Teachersgv);
             this.Controls.Add(this.Exitbtn);
             this.Controls.Add(this.Findbtn);
@@ -273,8 +285,8 @@
             this.Text = "Teachers";
             this.Load += new System.EventHandler(this.Teachers_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Teachersgv)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.school_dbDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.teacherBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.school_dbDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -305,6 +317,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn nameDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn addressDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn salaryDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Button Logoutbtn;
     }
 }
 

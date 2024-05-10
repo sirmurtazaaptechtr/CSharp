@@ -8,3 +8,4 @@ C:\Users\murtaza\source\repos\May082024_DA\May082024_DA\obj\Debug\May082024_DA.c
 C:\Users\murtaza\source\repos\May082024_DA\May082024_DA\obj\Debug\May082024_DA.csproj.CoreCompileInputs.cache
 C:\Users\murtaza\source\repos\May082024_DA\May082024_DA\obj\Debug\May082024_DA.exe
 C:\Users\murtaza\source\repos\May082024_DA\May082024_DA\obj\Debug\May082024_DA.pdb
+C:\Users\murtaza\source\repos\May082024_DA\May082024_DA\obj\Debug\May082024_DA.Login.resources
