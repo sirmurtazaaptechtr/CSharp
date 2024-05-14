@@ -49,9 +49,13 @@ namespace May112024DA
                     }
                     else
                     {
-                        MessageBox.Show("Invalid Username or Password");
+                        MessageBox.Show("Invalid Password!");
                     }
 
+                }
+                else
+                {
+                    MessageBox.Show("Invalid Username!");
                 }
 
             }
