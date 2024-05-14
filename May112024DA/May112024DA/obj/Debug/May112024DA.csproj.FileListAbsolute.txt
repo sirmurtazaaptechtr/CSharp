@@ -1,0 +1,10 @@
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\bin\Debug\May112024DA.exe.config
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\bin\Debug\May112024DA.exe
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\bin\Debug\May112024DA.pdb
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.csproj.AssemblyReference.cache
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.Login.resources
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.Properties.Resources.resources
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.csproj.GenerateResource.cache
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.csproj.CoreCompileInputs.cache
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.exe
+C:\Users\murtaza\source\repos\May112024DA\May112024DA\obj\Debug\May112024DA.pdb
