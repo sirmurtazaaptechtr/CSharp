@@ -33,11 +33,25 @@ namespace May112024DA
                 string EnteredUserName = UserNameTb.Text.Trim();
                 string EnteredPassword = PasswordTb.Text.Trim();
                 
-                string SelectSQL = $"SELECT * FROM login WHERE username = {EnteredUserName}";
+                string SelectSQL = $"SELECT password FROM login WHERE username = '{EnteredUserName}'";
 
                 Cmd.CommandText = SelectSQL;
 
-                object PasswordFromDBObj = Cmd.ExecuteScalar();
+                object PasswordFromDBObj = "";
+                
+                try
+                {
+                    Conn.Open();
+                    PasswordFromDBObj = Cmd.ExecuteScalar();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    Conn.Close();
+                }
 
                 if (PasswordFromDBObj != null )
                 {
@@ -46,6 +60,9 @@ namespace May112024DA
                     if(EnteredPassword == PasswordFromDB)
                     {
                         MessageBox.Show("Login successful");
+                        Home home = new Home();
+                        home.Show();
+                        this.Hide();
                     }
                     else
                     {

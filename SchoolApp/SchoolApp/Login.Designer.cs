@@ -1,4 +1,4 @@
-﻿namespace May112024DA
+﻿namespace SchoolApp
 {
     partial class Login
     {
@@ -40,51 +40,47 @@
             // 
             this.TitleLbl.AutoSize = true;
             this.TitleLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TitleLbl.Location = new System.Drawing.Point(300, 100);
+            this.TitleLbl.Location = new System.Drawing.Point(260, 52);
             this.TitleLbl.Name = "TitleLbl";
-            this.TitleLbl.Size = new System.Drawing.Size(188, 26);
+            this.TitleLbl.Size = new System.Drawing.Size(215, 26);
             this.TitleLbl.TabIndex = 0;
-            this.TitleLbl.Text = "My School Login";
-            this.TitleLbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.TitleLbl.Text = "Login to My School";
             // 
             // UserNameLbl
             // 
             this.UserNameLbl.AutoSize = true;
-            this.UserNameLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UserNameLbl.Location = new System.Drawing.Point(313, 146);
+            this.UserNameLbl.Location = new System.Drawing.Point(281, 105);
             this.UserNameLbl.Name = "UserNameLbl";
-            this.UserNameLbl.Size = new System.Drawing.Size(63, 13);
+            this.UserNameLbl.Size = new System.Drawing.Size(55, 13);
             this.UserNameLbl.TabIndex = 1;
             this.UserNameLbl.Text = "Username";
             // 
             // PasswordLbl
             // 
             this.PasswordLbl.AutoSize = true;
-            this.PasswordLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PasswordLbl.Location = new System.Drawing.Point(313, 174);
+            this.PasswordLbl.Location = new System.Drawing.Point(283, 130);
             this.PasswordLbl.Name = "PasswordLbl";
-            this.PasswordLbl.Size = new System.Drawing.Size(61, 13);
+            this.PasswordLbl.Size = new System.Drawing.Size(53, 13);
             this.PasswordLbl.TabIndex = 1;
             this.PasswordLbl.Text = "Password";
             // 
             // UserNameTb
             // 
-            this.UserNameTb.Location = new System.Drawing.Point(375, 146);
+            this.UserNameTb.Location = new System.Drawing.Point(352, 105);
             this.UserNameTb.Name = "UserNameTb";
             this.UserNameTb.Size = new System.Drawing.Size(100, 20);
             this.UserNameTb.TabIndex = 2;
             // 
             // PasswordTb
             // 
-            this.PasswordTb.Location = new System.Drawing.Point(375, 174);
+            this.PasswordTb.Location = new System.Drawing.Point(352, 130);
             this.PasswordTb.Name = "PasswordTb";
-            this.PasswordTb.PasswordChar = '*';
             this.PasswordTb.Size = new System.Drawing.Size(100, 20);
             this.PasswordTb.TabIndex = 2;
             // 
             // LoginBtn
             // 
-            this.LoginBtn.Location = new System.Drawing.Point(400, 200);
+            this.LoginBtn.Location = new System.Drawing.Point(376, 157);
             this.LoginBtn.Name = "LoginBtn";
             this.LoginBtn.Size = new System.Drawing.Size(75, 23);
             this.LoginBtn.TabIndex = 3;
@@ -104,8 +100,7 @@
             this.Controls.Add(this.UserNameLbl);
             this.Controls.Add(this.TitleLbl);
             this.Name = "Login";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "My School Login";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
