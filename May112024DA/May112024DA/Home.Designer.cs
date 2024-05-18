@@ -114,13 +114,14 @@
             // 
             // HomeBtn
             // 
+            this.HomeBtn.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.HomeBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HomeBtn.Location = new System.Drawing.Point(18, 25);
             this.HomeBtn.Name = "HomeBtn";
             this.HomeBtn.Size = new System.Drawing.Size(75, 23);
             this.HomeBtn.TabIndex = 0;
             this.HomeBtn.Text = "Home";
-            this.HomeBtn.UseVisualStyleBackColor = true;
+            this.HomeBtn.UseVisualStyleBackColor = false;
             this.HomeBtn.Click += new System.EventHandler(this.HomeBtn_Click);
             // 
             // OptionsGb
@@ -199,6 +200,7 @@
             this.Controls.Add(this.MenuGb);
             this.Controls.Add(this.TitleLbl);
             this.Name = "Home";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Home";
             this.MenuGb.ResumeLayout(false);
             this.OptionsGb.ResumeLayout(false);
