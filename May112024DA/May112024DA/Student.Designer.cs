@@ -35,24 +35,24 @@
             this.UsersBtn = new System.Windows.Forms.Button();
             this.HomeBtn = new System.Windows.Forms.Button();
             this.AddNewStdGB = new System.Windows.Forms.GroupBox();
-            this.IdLbl = new System.Windows.Forms.Label();
-            this.IdTb = new System.Windows.Forms.TextBox();
-            this.NameLbl = new System.Windows.Forms.Label();
-            this.NameTb = new System.Windows.Forms.TextBox();
-            this.EmailLbl = new System.Windows.Forms.Label();
-            this.EmailTb = new System.Windows.Forms.TextBox();
-            this.DOBLbl = new System.Windows.Forms.Label();
             this.dobDTP = new System.Windows.Forms.DateTimePicker();
-            this.ContactLbl = new System.Windows.Forms.Label();
-            this.ContactTb = new System.Windows.Forms.TextBox();
-            this.InsertBtn = new System.Windows.Forms.Button();
-            this.UpdateBtn = new System.Windows.Forms.Button();
+            this.DOBLbl = new System.Windows.Forms.Label();
             this.DeleteBtn = new System.Windows.Forms.Button();
+            this.ContactTb = new System.Windows.Forms.TextBox();
+            this.ContactLbl = new System.Windows.Forms.Label();
+            this.UpdateBtn = new System.Windows.Forms.Button();
+            this.EmailTb = new System.Windows.Forms.TextBox();
             this.ShowAllBtn = new System.Windows.Forms.Button();
+            this.EmailLbl = new System.Windows.Forms.Label();
+            this.NameTb = new System.Windows.Forms.TextBox();
+            this.InsertBtn = new System.Windows.Forms.Button();
+            this.NameLbl = new System.Windows.Forms.Label();
+            this.IdTb = new System.Windows.Forms.TextBox();
+            this.IdLbl = new System.Windows.Forms.Label();
             this.StudentsGB = new System.Windows.Forms.GroupBox();
-            this.titleLbl = new System.Windows.Forms.Label();
-            this.FindTb = new System.Windows.Forms.TextBox();
             this.SearchBtn = new System.Windows.Forms.Button();
+            this.FindTb = new System.Windows.Forms.TextBox();
+            this.titleLbl = new System.Windows.Forms.Label();
             this.StudentsGV = new System.Windows.Forms.DataGridView();
             this.MenuGb.SuspendLayout();
             this.AddNewStdGB.SuspendLayout();
@@ -150,60 +150,15 @@
             this.AddNewStdGB.TabIndex = 4;
             this.AddNewStdGB.TabStop = false;
             this.AddNewStdGB.Text = "Add/Edit New Student";
+            this.AddNewStdGB.Enter += new System.EventHandler(this.AddNewStdGB_Enter);
             // 
-            // IdLbl
+            // dobDTP
             // 
-            this.IdLbl.AutoSize = true;
-            this.IdLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IdLbl.Location = new System.Drawing.Point(8, 27);
-            this.IdLbl.Name = "IdLbl";
-            this.IdLbl.Size = new System.Drawing.Size(74, 15);
-            this.IdLbl.TabIndex = 0;
-            this.IdLbl.Text = "Student ID";
-            // 
-            // IdTb
-            // 
-            this.IdTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.IdTb.Location = new System.Drawing.Point(88, 24);
-            this.IdTb.Name = "IdTb";
-            this.IdTb.Size = new System.Drawing.Size(200, 20);
-            this.IdTb.TabIndex = 1;
-            // 
-            // NameLbl
-            // 
-            this.NameLbl.AutoSize = true;
-            this.NameLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NameLbl.Location = new System.Drawing.Point(8, 59);
-            this.NameLbl.Name = "NameLbl";
-            this.NameLbl.Size = new System.Drawing.Size(45, 15);
-            this.NameLbl.TabIndex = 0;
-            this.NameLbl.Text = "Name";
-            // 
-            // NameTb
-            // 
-            this.NameTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NameTb.Location = new System.Drawing.Point(88, 56);
-            this.NameTb.Name = "NameTb";
-            this.NameTb.Size = new System.Drawing.Size(200, 20);
-            this.NameTb.TabIndex = 1;
-            // 
-            // EmailLbl
-            // 
-            this.EmailLbl.AutoSize = true;
-            this.EmailLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.EmailLbl.Location = new System.Drawing.Point(8, 91);
-            this.EmailLbl.Name = "EmailLbl";
-            this.EmailLbl.Size = new System.Drawing.Size(44, 15);
-            this.EmailLbl.TabIndex = 0;
-            this.EmailLbl.Text = "Email";
-            // 
-            // EmailTb
-            // 
-            this.EmailTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.EmailTb.Location = new System.Drawing.Point(88, 88);
-            this.EmailTb.Name = "EmailTb";
-            this.EmailTb.Size = new System.Drawing.Size(200, 20);
-            this.EmailTb.TabIndex = 1;
+            this.dobDTP.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dobDTP.Location = new System.Drawing.Point(88, 120);
+            this.dobDTP.Name = "dobDTP";
+            this.dobDTP.Size = new System.Drawing.Size(200, 20);
+            this.dobDTP.TabIndex = 2;
             // 
             // DOBLbl
             // 
@@ -215,13 +170,23 @@
             this.DOBLbl.TabIndex = 0;
             this.DOBLbl.Text = "DOB";
             // 
-            // dobDTP
+            // DeleteBtn
             // 
-            this.dobDTP.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dobDTP.Location = new System.Drawing.Point(88, 120);
-            this.dobDTP.Name = "dobDTP";
-            this.dobDTP.Size = new System.Drawing.Size(200, 20);
-            this.dobDTP.TabIndex = 2;
+            this.DeleteBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DeleteBtn.Location = new System.Drawing.Point(305, 118);
+            this.DeleteBtn.Name = "DeleteBtn";
+            this.DeleteBtn.Size = new System.Drawing.Size(75, 23);
+            this.DeleteBtn.TabIndex = 3;
+            this.DeleteBtn.Text = "Delete";
+            this.DeleteBtn.UseVisualStyleBackColor = true;
+            // 
+            // ContactTb
+            // 
+            this.ContactTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ContactTb.Location = new System.Drawing.Point(88, 146);
+            this.ContactTb.Name = "ContactTb";
+            this.ContactTb.Size = new System.Drawing.Size(200, 20);
+            this.ContactTb.TabIndex = 1;
             // 
             // ContactLbl
             // 
@@ -233,13 +198,52 @@
             this.ContactLbl.TabIndex = 0;
             this.ContactLbl.Text = "Phone/Cell";
             // 
-            // ContactTb
+            // UpdateBtn
             // 
-            this.ContactTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ContactTb.Location = new System.Drawing.Point(88, 146);
-            this.ContactTb.Name = "ContactTb";
-            this.ContactTb.Size = new System.Drawing.Size(200, 20);
-            this.ContactTb.TabIndex = 1;
+            this.UpdateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UpdateBtn.Location = new System.Drawing.Point(305, 88);
+            this.UpdateBtn.Name = "UpdateBtn";
+            this.UpdateBtn.Size = new System.Drawing.Size(75, 23);
+            this.UpdateBtn.TabIndex = 3;
+            this.UpdateBtn.Text = "Update";
+            this.UpdateBtn.UseVisualStyleBackColor = true;
+            // 
+            // EmailTb
+            // 
+            this.EmailTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EmailTb.Location = new System.Drawing.Point(88, 88);
+            this.EmailTb.Name = "EmailTb";
+            this.EmailTb.Size = new System.Drawing.Size(200, 20);
+            this.EmailTb.TabIndex = 1;
+            // 
+            // ShowAllBtn
+            // 
+            this.ShowAllBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ShowAllBtn.Location = new System.Drawing.Point(305, 27);
+            this.ShowAllBtn.Name = "ShowAllBtn";
+            this.ShowAllBtn.Size = new System.Drawing.Size(75, 23);
+            this.ShowAllBtn.TabIndex = 3;
+            this.ShowAllBtn.Text = "Show All";
+            this.ShowAllBtn.UseVisualStyleBackColor = true;
+            this.ShowAllBtn.Click += new System.EventHandler(this.ShowAllBtn_Click);
+            // 
+            // EmailLbl
+            // 
+            this.EmailLbl.AutoSize = true;
+            this.EmailLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EmailLbl.Location = new System.Drawing.Point(8, 91);
+            this.EmailLbl.Name = "EmailLbl";
+            this.EmailLbl.Size = new System.Drawing.Size(44, 15);
+            this.EmailLbl.TabIndex = 0;
+            this.EmailLbl.Text = "Email";
+            // 
+            // NameTb
+            // 
+            this.NameTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NameTb.Location = new System.Drawing.Point(88, 56);
+            this.NameTb.Name = "NameTb";
+            this.NameTb.Size = new System.Drawing.Size(200, 20);
+            this.NameTb.TabIndex = 1;
             // 
             // InsertBtn
             // 
@@ -252,36 +256,33 @@
             this.InsertBtn.UseVisualStyleBackColor = true;
             this.InsertBtn.Click += new System.EventHandler(this.InsertBtn_Click);
             // 
-            // UpdateBtn
+            // NameLbl
             // 
-            this.UpdateBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UpdateBtn.Location = new System.Drawing.Point(305, 88);
-            this.UpdateBtn.Name = "UpdateBtn";
-            this.UpdateBtn.Size = new System.Drawing.Size(75, 23);
-            this.UpdateBtn.TabIndex = 3;
-            this.UpdateBtn.Text = "Update";
-            this.UpdateBtn.UseVisualStyleBackColor = true;
+            this.NameLbl.AutoSize = true;
+            this.NameLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NameLbl.Location = new System.Drawing.Point(8, 59);
+            this.NameLbl.Name = "NameLbl";
+            this.NameLbl.Size = new System.Drawing.Size(45, 15);
+            this.NameLbl.TabIndex = 0;
+            this.NameLbl.Text = "Name";
             // 
-            // DeleteBtn
+            // IdTb
             // 
-            this.DeleteBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DeleteBtn.Location = new System.Drawing.Point(305, 118);
-            this.DeleteBtn.Name = "DeleteBtn";
-            this.DeleteBtn.Size = new System.Drawing.Size(75, 23);
-            this.DeleteBtn.TabIndex = 3;
-            this.DeleteBtn.Text = "Delete";
-            this.DeleteBtn.UseVisualStyleBackColor = true;
+            this.IdTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IdTb.Location = new System.Drawing.Point(88, 24);
+            this.IdTb.Name = "IdTb";
+            this.IdTb.Size = new System.Drawing.Size(200, 20);
+            this.IdTb.TabIndex = 1;
             // 
-            // ShowAllBtn
+            // IdLbl
             // 
-            this.ShowAllBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ShowAllBtn.Location = new System.Drawing.Point(305, 27);
-            this.ShowAllBtn.Name = "ShowAllBtn";
-            this.ShowAllBtn.Size = new System.Drawing.Size(75, 23);
-            this.ShowAllBtn.TabIndex = 3;
-            this.ShowAllBtn.Text = "Show All";
-            this.ShowAllBtn.UseVisualStyleBackColor = true;
-            this.ShowAllBtn.Click += new System.EventHandler(this.ShowAllBtn_Click);
+            this.IdLbl.AutoSize = true;
+            this.IdLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IdLbl.Location = new System.Drawing.Point(8, 27);
+            this.IdLbl.Name = "IdLbl";
+            this.IdLbl.Size = new System.Drawing.Size(74, 15);
+            this.IdLbl.TabIndex = 0;
+            this.IdLbl.Text = "Student ID";
             // 
             // StudentsGB
             // 
@@ -295,24 +296,6 @@
             this.StudentsGB.TabStop = false;
             this.StudentsGB.Text = "Students";
             // 
-            // titleLbl
-            // 
-            this.titleLbl.AutoSize = true;
-            this.titleLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.titleLbl.Location = new System.Drawing.Point(298, 13);
-            this.titleLbl.Name = "titleLbl";
-            this.titleLbl.Size = new System.Drawing.Size(129, 26);
-            this.titleLbl.TabIndex = 6;
-            this.titleLbl.Text = "All Students";
-            // 
-            // FindTb
-            // 
-            this.FindTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.FindTb.Location = new System.Drawing.Point(6, 24);
-            this.FindTb.Name = "FindTb";
-            this.FindTb.Size = new System.Drawing.Size(190, 20);
-            this.FindTb.TabIndex = 1;
-            // 
             // SearchBtn
             // 
             this.SearchBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -322,6 +305,24 @@
             this.SearchBtn.TabIndex = 3;
             this.SearchBtn.Text = "Search";
             this.SearchBtn.UseVisualStyleBackColor = true;
+            // 
+            // FindTb
+            // 
+            this.FindTb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FindTb.Location = new System.Drawing.Point(6, 24);
+            this.FindTb.Name = "FindTb";
+            this.FindTb.Size = new System.Drawing.Size(190, 20);
+            this.FindTb.TabIndex = 1;
+            // 
+            // titleLbl
+            // 
+            this.titleLbl.AutoSize = true;
+            this.titleLbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.titleLbl.Location = new System.Drawing.Point(298, 13);
+            this.titleLbl.Name = "titleLbl";
+            this.titleLbl.Size = new System.Drawing.Size(129, 26);
+            this.titleLbl.TabIndex = 6;
+            this.titleLbl.Text = "All Students";
             // 
             // StudentsGV
             // 

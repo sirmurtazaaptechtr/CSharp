@@ -88,6 +88,9 @@ namespace May112024DA
             ContactTb.Clear();
         }
 
-        
+        private void AddNewStdGB_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
