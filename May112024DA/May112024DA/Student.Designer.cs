@@ -81,7 +81,7 @@
             this.ExitBtn.Location = new System.Drawing.Point(18, 344);
             this.ExitBtn.Name = "ExitBtn";
             this.ExitBtn.Size = new System.Drawing.Size(75, 23);
-            this.ExitBtn.TabIndex = 0;
+            this.ExitBtn.TabIndex = 7;
             this.ExitBtn.Text = "Exit";
             this.ExitBtn.UseVisualStyleBackColor = true;
             // 
@@ -91,7 +91,7 @@
             this.TeachersBtn.Location = new System.Drawing.Point(18, 112);
             this.TeachersBtn.Name = "TeachersBtn";
             this.TeachersBtn.Size = new System.Drawing.Size(75, 23);
-            this.TeachersBtn.TabIndex = 0;
+            this.TeachersBtn.TabIndex = 6;
             this.TeachersBtn.Text = "Teachers";
             this.TeachersBtn.UseVisualStyleBackColor = true;
             // 
@@ -102,7 +102,7 @@
             this.StudentsBtn.Location = new System.Drawing.Point(18, 83);
             this.StudentsBtn.Name = "StudentsBtn";
             this.StudentsBtn.Size = new System.Drawing.Size(75, 23);
-            this.StudentsBtn.TabIndex = 0;
+            this.StudentsBtn.TabIndex = 5;
             this.StudentsBtn.Text = "Students";
             this.StudentsBtn.UseVisualStyleBackColor = false;
             // 
@@ -112,7 +112,7 @@
             this.UsersBtn.Location = new System.Drawing.Point(18, 54);
             this.UsersBtn.Name = "UsersBtn";
             this.UsersBtn.Size = new System.Drawing.Size(75, 23);
-            this.UsersBtn.TabIndex = 0;
+            this.UsersBtn.TabIndex = 4;
             this.UsersBtn.Text = "Users";
             this.UsersBtn.UseVisualStyleBackColor = true;
             // 
@@ -123,7 +123,7 @@
             this.HomeBtn.Location = new System.Drawing.Point(18, 25);
             this.HomeBtn.Name = "HomeBtn";
             this.HomeBtn.Size = new System.Drawing.Size(75, 23);
-            this.HomeBtn.TabIndex = 0;
+            this.HomeBtn.TabIndex = 3;
             this.HomeBtn.Text = "Home";
             this.HomeBtn.UseVisualStyleBackColor = false;
             // 
@@ -147,7 +147,7 @@
             this.AddNewStdGB.Location = new System.Drawing.Point(145, 45);
             this.AddNewStdGB.Name = "AddNewStdGB";
             this.AddNewStdGB.Size = new System.Drawing.Size(643, 173);
-            this.AddNewStdGB.TabIndex = 4;
+            this.AddNewStdGB.TabIndex = 0;
             this.AddNewStdGB.TabStop = false;
             this.AddNewStdGB.Text = "Add/Edit New Student";
             this.AddNewStdGB.Enter += new System.EventHandler(this.AddNewStdGB_Enter);
@@ -158,7 +158,7 @@
             this.dobDTP.Location = new System.Drawing.Point(88, 120);
             this.dobDTP.Name = "dobDTP";
             this.dobDTP.Size = new System.Drawing.Size(200, 20);
-            this.dobDTP.TabIndex = 2;
+            this.dobDTP.TabIndex = 16;
             // 
             // DOBLbl
             // 
@@ -167,7 +167,7 @@
             this.DOBLbl.Location = new System.Drawing.Point(8, 123);
             this.DOBLbl.Name = "DOBLbl";
             this.DOBLbl.Size = new System.Drawing.Size(36, 15);
-            this.DOBLbl.TabIndex = 0;
+            this.DOBLbl.TabIndex = 11;
             this.DOBLbl.Text = "DOB";
             // 
             // DeleteBtn
@@ -176,9 +176,10 @@
             this.DeleteBtn.Location = new System.Drawing.Point(305, 118);
             this.DeleteBtn.Name = "DeleteBtn";
             this.DeleteBtn.Size = new System.Drawing.Size(75, 23);
-            this.DeleteBtn.TabIndex = 3;
+            this.DeleteBtn.TabIndex = 21;
             this.DeleteBtn.Text = "Delete";
             this.DeleteBtn.UseVisualStyleBackColor = true;
+            this.DeleteBtn.Click += new System.EventHandler(this.DeleteBtn_Click);
             // 
             // ContactTb
             // 
@@ -186,7 +187,7 @@
             this.ContactTb.Location = new System.Drawing.Point(88, 146);
             this.ContactTb.Name = "ContactTb";
             this.ContactTb.Size = new System.Drawing.Size(200, 20);
-            this.ContactTb.TabIndex = 1;
+            this.ContactTb.TabIndex = 17;
             // 
             // ContactLbl
             // 
@@ -195,7 +196,7 @@
             this.ContactLbl.Location = new System.Drawing.Point(8, 149);
             this.ContactLbl.Name = "ContactLbl";
             this.ContactLbl.Size = new System.Drawing.Size(77, 15);
-            this.ContactLbl.TabIndex = 0;
+            this.ContactLbl.TabIndex = 12;
             this.ContactLbl.Text = "Phone/Cell";
             // 
             // UpdateBtn
@@ -204,9 +205,10 @@
             this.UpdateBtn.Location = new System.Drawing.Point(305, 88);
             this.UpdateBtn.Name = "UpdateBtn";
             this.UpdateBtn.Size = new System.Drawing.Size(75, 23);
-            this.UpdateBtn.TabIndex = 3;
+            this.UpdateBtn.TabIndex = 20;
             this.UpdateBtn.Text = "Update";
             this.UpdateBtn.UseVisualStyleBackColor = true;
+            this.UpdateBtn.Click += new System.EventHandler(this.UpdateBtn_Click);
             // 
             // EmailTb
             // 
@@ -214,7 +216,7 @@
             this.EmailTb.Location = new System.Drawing.Point(88, 88);
             this.EmailTb.Name = "EmailTb";
             this.EmailTb.Size = new System.Drawing.Size(200, 20);
-            this.EmailTb.TabIndex = 1;
+            this.EmailTb.TabIndex = 15;
             // 
             // ShowAllBtn
             // 
@@ -222,7 +224,7 @@
             this.ShowAllBtn.Location = new System.Drawing.Point(305, 27);
             this.ShowAllBtn.Name = "ShowAllBtn";
             this.ShowAllBtn.Size = new System.Drawing.Size(75, 23);
-            this.ShowAllBtn.TabIndex = 3;
+            this.ShowAllBtn.TabIndex = 18;
             this.ShowAllBtn.Text = "Show All";
             this.ShowAllBtn.UseVisualStyleBackColor = true;
             this.ShowAllBtn.Click += new System.EventHandler(this.ShowAllBtn_Click);
@@ -234,7 +236,7 @@
             this.EmailLbl.Location = new System.Drawing.Point(8, 91);
             this.EmailLbl.Name = "EmailLbl";
             this.EmailLbl.Size = new System.Drawing.Size(44, 15);
-            this.EmailLbl.TabIndex = 0;
+            this.EmailLbl.TabIndex = 10;
             this.EmailLbl.Text = "Email";
             // 
             // NameTb
@@ -243,7 +245,7 @@
             this.NameTb.Location = new System.Drawing.Point(88, 56);
             this.NameTb.Name = "NameTb";
             this.NameTb.Size = new System.Drawing.Size(200, 20);
-            this.NameTb.TabIndex = 1;
+            this.NameTb.TabIndex = 14;
             // 
             // InsertBtn
             // 
@@ -251,7 +253,7 @@
             this.InsertBtn.Location = new System.Drawing.Point(305, 59);
             this.InsertBtn.Name = "InsertBtn";
             this.InsertBtn.Size = new System.Drawing.Size(75, 23);
-            this.InsertBtn.TabIndex = 3;
+            this.InsertBtn.TabIndex = 19;
             this.InsertBtn.Text = "Insert";
             this.InsertBtn.UseVisualStyleBackColor = true;
             this.InsertBtn.Click += new System.EventHandler(this.InsertBtn_Click);
@@ -263,7 +265,7 @@
             this.NameLbl.Location = new System.Drawing.Point(8, 59);
             this.NameLbl.Name = "NameLbl";
             this.NameLbl.Size = new System.Drawing.Size(45, 15);
-            this.NameLbl.TabIndex = 0;
+            this.NameLbl.TabIndex = 9;
             this.NameLbl.Text = "Name";
             // 
             // IdTb
@@ -272,7 +274,7 @@
             this.IdTb.Location = new System.Drawing.Point(88, 24);
             this.IdTb.Name = "IdTb";
             this.IdTb.Size = new System.Drawing.Size(200, 20);
-            this.IdTb.TabIndex = 1;
+            this.IdTb.TabIndex = 13;
             // 
             // IdLbl
             // 
@@ -281,7 +283,7 @@
             this.IdLbl.Location = new System.Drawing.Point(8, 27);
             this.IdLbl.Name = "IdLbl";
             this.IdLbl.Size = new System.Drawing.Size(74, 15);
-            this.IdLbl.TabIndex = 0;
+            this.IdLbl.TabIndex = 8;
             this.IdLbl.Text = "Student ID";
             // 
             // StudentsGB
@@ -292,7 +294,7 @@
             this.StudentsGB.Location = new System.Drawing.Point(145, 224);
             this.StudentsGB.Name = "StudentsGB";
             this.StudentsGB.Size = new System.Drawing.Size(643, 56);
-            this.StudentsGB.TabIndex = 5;
+            this.StudentsGB.TabIndex = 22;
             this.StudentsGB.TabStop = false;
             this.StudentsGB.Text = "Students";
             // 
@@ -302,7 +304,7 @@
             this.SearchBtn.Location = new System.Drawing.Point(213, 21);
             this.SearchBtn.Name = "SearchBtn";
             this.SearchBtn.Size = new System.Drawing.Size(75, 23);
-            this.SearchBtn.TabIndex = 3;
+            this.SearchBtn.TabIndex = 24;
             this.SearchBtn.Text = "Search";
             this.SearchBtn.UseVisualStyleBackColor = true;
             // 
@@ -312,7 +314,7 @@
             this.FindTb.Location = new System.Drawing.Point(6, 24);
             this.FindTb.Name = "FindTb";
             this.FindTb.Size = new System.Drawing.Size(190, 20);
-            this.FindTb.TabIndex = 1;
+            this.FindTb.TabIndex = 23;
             // 
             // titleLbl
             // 
@@ -321,7 +323,7 @@
             this.titleLbl.Location = new System.Drawing.Point(298, 13);
             this.titleLbl.Name = "titleLbl";
             this.titleLbl.Size = new System.Drawing.Size(129, 26);
-            this.titleLbl.TabIndex = 6;
+            this.titleLbl.TabIndex = 1;
             this.titleLbl.Text = "All Students";
             // 
             // StudentsGV
@@ -333,7 +335,8 @@
             this.StudentsGV.Name = "StudentsGV";
             this.StudentsGV.ReadOnly = true;
             this.StudentsGV.Size = new System.Drawing.Size(643, 152);
-            this.StudentsGV.TabIndex = 7;
+            this.StudentsGV.TabIndex = 25;
+            this.StudentsGV.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.StudentsGV_CellContentClick_1);
             // 
             // Student
             // 

@@ -2,7 +2,6 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace May112024DA
 {
@@ -14,6 +13,7 @@ namespace May112024DA
         }
         SqlConnection Conn;
         SqlCommand Cmd;
+        int key = -1;
 
         string cs = @"Data Source=FACULTY1C\MSSQLSERVER1122;Initial Catalog=school_db;Persist Security Info=True;User ID=sa;Password=123";
 
@@ -91,6 +91,74 @@ namespace May112024DA
         private void AddNewStdGB_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void StudentsGV_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0 && e.RowIndex < StudentsGV.Rows.Count)
+            {
+                DataGridViewRow row = StudentsGV.Rows[e.RowIndex];
+                IdTb.Text = row.Cells[0].Value.ToString();
+                NameTb.Text = row.Cells[1].Value.ToString();
+                EmailTb.Text = row.Cells[2].Value.ToString();
+                dobDTP.Text = row.Cells[3].Value.ToString();
+                ContactTb.Text = row.Cells[4].Value.ToString();
+                key = Convert.ToInt32(IdTb.Text);
+
+                //MessageBox.Show($"{key},{NameTb.Text},{EmailTb.Text}, {dobDTP.Text} and {ContactTb.Text} is selected");
+            }
+        }
+
+        private void UpdateBtn_Click(object sender, EventArgs e)
+        {
+            string query = $"UPDATE Student SET name = '{NameTb.Text.ToString()}', email = '{EmailTb.Text.ToString()}',dob = '{dobDTP.Value.ToString()}',contact = '{ContactTb.Text.ToString()}' WHERE id = '{key}'";
+            Cmd.CommandType = CommandType.Text;
+            Cmd.CommandText = query;
+            try
+            {
+                Conn.Open();
+                Cmd.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                Conn.Close();
+            }
+            MessageBox.Show("Record Updated Successfully");
+            cleardata();
+            displaydata();
+
+        }
+
+        private void DeleteBtn_Click(object sender, EventArgs e)
+        {
+            if(key >= 0)
+            {
+                string query = $"DELETE FROM Student WHERE id = '{key}'";
+                Cmd.CommandType = CommandType.Text;
+                Cmd.CommandText = query;
+                try
+                {
+                    Conn.Open();
+                    Cmd.ExecuteNonQuery();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    Conn.Close();
+                }
+                MessageBox.Show("Record Updated Successfully");
+                cleardata();
+                displaydata();
+
+
+            }
         }
     }
 }
