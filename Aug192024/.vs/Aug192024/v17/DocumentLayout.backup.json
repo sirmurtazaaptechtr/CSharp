@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\Aug192024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7ED691-B6E6-4AE2-BFD8-97B55BEF86C1}|Aug192024\\Aug192024.csproj|c:\\users\\murtaza\\source\\repos\\aug192024\\aug192024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7ED691-B6E6-4AE2-BFD8-97B55BEF86C1}|Aug192024\\Aug192024.csproj|solutionrelative:aug192024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\Aug192024\\Aug192024\\Program.cs",
+              "RelativeDocumentMoniker": "Aug192024\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\Aug192024\\Aug192024\\Program.cs",
+              "RelativeToolTip": "Aug192024\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:57:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

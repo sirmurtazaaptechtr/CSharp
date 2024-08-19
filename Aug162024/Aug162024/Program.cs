@@ -39,6 +39,14 @@ namespace Aug162024
             \n: This is a newline character that moves the cursor to the next line after the output.
             */
 
+            int myNum = 5;
+            double myDoubleNum = 5.99D;
+            char myLetter = 'D';
+            bool myBool = true;
+            string myText = "Hello";
+
+            Console.WriteLine("{0}, {1}, {2}, {3}, {4}", myNum, myDoubleNum, myLetter, myBool, myText);
+
         }
     }
 }
