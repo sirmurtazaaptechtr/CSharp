@@ -39,7 +39,12 @@ namespace Aug212024
             Console.WriteLine("{0} - {1} = {2}",num1, num2, num1 - num2);
             Console.WriteLine("{0} x {1} = {2}",num1, num2, num1 * num2);
             Console.WriteLine("{0} / {1} = {2}",num1, num2, num1 / num2);
-            Console.WriteLine("{0} % {1} = {2}",num1, num2, num1 % num2);            
+            Console.WriteLine("{0} % {1} = {2}",num1, num2, num1 % num2);
+
+            int x = 10;
+            x += 5;// x = x + 5;
+
+            Console.WriteLine(x);
         }
     }
 }
