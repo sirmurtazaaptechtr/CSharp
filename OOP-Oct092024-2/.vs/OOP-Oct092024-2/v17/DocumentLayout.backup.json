@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murtaza\\source\\repos\\OOP-Oct092024-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765F50D9-4945-4E5F-AE5E-36489E08B0B1}|OOP-Oct092024-2\\OOP-Oct092024-2.csproj|c:\\users\\murtaza\\source\\repos\\oop-oct092024-2\\oop-oct092024-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765F50D9-4945-4E5F-AE5E-36489E08B0B1}|OOP-Oct092024-2\\OOP-Oct092024-2.csproj|solutionrelative:oop-oct092024-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murtaza\\source\\repos\\OOP-Oct092024-2\\OOP-Oct092024-2\\Program.cs",
+              "RelativeDocumentMoniker": "OOP-Oct092024-2\\Program.cs",
+              "ToolTip": "C:\\Users\\murtaza\\source\\repos\\OOP-Oct092024-2\\OOP-Oct092024-2\\Program.cs",
+              "RelativeToolTip": "OOP-Oct092024-2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:49:52.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
